@@ -1,1 +1,1 @@
-# BrainTumorDetection
+# Malware Detection
